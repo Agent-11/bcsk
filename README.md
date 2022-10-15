@@ -5,7 +5,7 @@
 
 It builds the following executable and its required assets:
 
-* Better Call Saul Kart.exe `sha1: idk`
+* Better Call Saul Kart.exe
 
 This repo does include all assets necessary for compiling the game.
 A prior copy of the game is **NOT** required to extract the assets.
